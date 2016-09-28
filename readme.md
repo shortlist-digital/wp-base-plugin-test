@@ -1,2 +1,2 @@
 # WP Base Plugin Test
-This is atest of the wordpress generator plugin
+A test of the WP Plugin Generator

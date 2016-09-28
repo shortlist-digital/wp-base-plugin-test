@@ -1,6 +1,6 @@
 {
     "name": "shortlist-digital/WP Base Plugin Test",
-    "description": "This is atest of the wordpress generator plugin",
+    "description": "A test of the WP Plugin Generator",
     "type": "wordpress-plugin",
     "license": "MIT",
     "authors": [
