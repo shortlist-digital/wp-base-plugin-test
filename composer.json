@@ -1,0 +1,13 @@
+{
+    "name": "shortlist-digital/WP Base Plugin Test",
+    "description": "This is atest of the wordpress generator plugin",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shortlist Studio",
+            "email": "hi@shortlist.studio"
+        }
+    ],
+    "require": {}
+}
